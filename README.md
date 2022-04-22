@@ -1,4 +1,4 @@
-# CS4287-Assignemnt2
+# CS4287-Assignment2
 CNN
 
 
